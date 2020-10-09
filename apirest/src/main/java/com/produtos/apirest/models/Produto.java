@@ -1,6 +1,6 @@
 package com.produtos.apirest.models;
 
-import java.io.Serializable;
+import java.io.Serializable; 
 import java.math.BigDecimal;
 
 import javax.persistence.Entity;
